@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWebApp", "src\MinimalWebApp\MinimalWebApp.csproj", "{A3AFA284-9633-4463-938A-45BC36B5DBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AFA284-9633-4463-938A-45BC36B5DBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AFA284-9633-4463-938A-45BC36B5DBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AFA284-9633-4463-938A-45BC36B5DBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AFA284-9633-4463-938A-45BC36B5DBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
